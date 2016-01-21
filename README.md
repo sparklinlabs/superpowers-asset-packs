@@ -10,9 +10,11 @@ The assets in this repository are created at Sparklin Labs by [Pixel-boy](https:
 They are released under the Creative Commons Zero (CC0) license.  
 Their creation is funded by your support [on Patreon](http://patreon.com/SparklinLabs) and [through donations ](http://sparklinlabs.itch.io/superpowers). Thanks! ♥
 
+You can use the assets found in this repository in your own games,
+even commercial ones. Attribution is not required but appreciated.
+Placing a link to http://superpowers-html5.com/ somewhere would be awesome :)
+
 ## About us
 
 We're the team behind [Superpowers, an HTML5 2D+3D game maker](http://superpowers-html5.com) with real-time collaboration features.  
 Most of the assets can be used with any engine, but they are particularly well suited for use with Superpowers.
-
-Although this is not a hard requirement, when using the assets in your projects, we appreciate it if you mention that the assets came from here or [superpowers-html5.com](http://superpowers-html5.com) so that other people can find out about our work.
