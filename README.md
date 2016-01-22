@@ -18,3 +18,25 @@ Placing a link to http://superpowers-html5.com/ somewhere would be awesome :)
 
 We're the team behind [Superpowers, an HTML5 2D+3D game maker](http://superpowers-html5.com) with real-time collaboration features.  
 Most of the assets can be used with any engine, but they are particularly well suited for use with Superpowers.
+
+## Preview
+
+[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/3d-character/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-character)
+
+[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/3d-vehicles/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-vehicles)
+
+[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/backgrounds/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/backgrounds)
+
+[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/medieval-fantasy/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/medieval-fantasy)
+
+[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/ninja-adventure/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/ninja-adventure)
+
+[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/prehistoric-platformer/preview-part-1.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/prehistoric-platformer)
+
+[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/prehistoric-platformer/preview-part-2.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/prehistoric-platformer)
+
+[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/space-shooter/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/space-shooter)
+
+[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/top-down-shooter/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/top-down-shooter)
+
+[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/western-fps-2d/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/western-fps-2d)
