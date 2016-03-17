@@ -29,7 +29,9 @@ Most of the assets can be used with any engine, but they are particularly well s
 
 [![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/medieval-fantasy/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/medieval-fantasy)
 
-[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/ninja-adventure/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/ninja-adventure)
+[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/ninja-adventure/preview-part-1.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/ninja-adventure)
+
+[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/ninja-adventure/preview-part-2.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/ninja-adventure)
 
 [![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/prehistoric-platformer/preview-part-1.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/prehistoric-platformer)
 

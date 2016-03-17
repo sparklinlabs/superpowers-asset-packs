@@ -6,4 +6,6 @@ for [Superpowers](http://superpowers-html5.com/) supporters!
 See https://github.com/sparklinlabs/superpowers-asset-packs
 for license information and more assets!
 
-![](preview.png)
+![](preview-part-1.png)
+
+![](preview-part-2.png)
