@@ -42,3 +42,5 @@ Most of the assets can be used with any engine, but they are particularly well s
 [![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/top-down-shooter/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/top-down-shooter)
 
 [![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/western-fps-2d/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/western-fps-2d)
+
+[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/rpg-battle-system/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/rpg-battle-system)
